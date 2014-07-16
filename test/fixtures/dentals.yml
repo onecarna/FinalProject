@@ -1,0 +1,25 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  id: MyString
+  integer: MyString
+  group: MyString
+  integer: MyString
+  plan_type: MyString
+  string: MyString
+  premium: MyString
+  integer: MyString
+  balance: MyString
+  integer: MyString
+
+two:
+  id: MyString
+  integer: MyString
+  group: MyString
+  integer: MyString
+  plan_type: MyString
+  string: MyString
+  premium: MyString
+  integer: MyString
+  balance: MyString
+  integer: MyString

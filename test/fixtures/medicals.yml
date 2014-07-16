@@ -1,0 +1,27 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  id: MyString
+  integer: MyString
+  group_id: MyString
+  integer: MyString
+  plan: MyString
+  premium: MyString
+  integer: MyString
+  in_deductible: MyString
+  integer: MyString
+  on_deductible: MyString
+  integer: MyString
+
+two:
+  id: MyString
+  integer: MyString
+  group_id: MyString
+  integer: MyString
+  plan: MyString
+  premium: MyString
+  integer: MyString
+  in_deductible: MyString
+  integer: MyString
+  on_deductible: MyString
+  integer: MyString
